@@ -1,0 +1,25 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+    text-align: center;
+    padding-left: 100px;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+canvas{
+    border-radius: 20px;
+}
